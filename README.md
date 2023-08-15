@@ -40,9 +40,10 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 - symbol
 - bight
 
-## where java script is used
+## where javascript is used
 
 - in Front-end
 - in back-end
 - in mobile applications
 - in desktop 
+
