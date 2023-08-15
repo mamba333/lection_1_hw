@@ -19,7 +19,11 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 - and the biggest update of java script in 2015, which has many new features.
 
 
-## - JavaScript Variables and Constants
+ - ##  JavaScript Variables and Constants
 - var 
 - let
 - const 
+
+- var is a variable whose value is changed during execution
+- let is also such a variable
+- but constant is such a variable that its value cannot be changed during the operation
