@@ -8,3 +8,10 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 
 
  - ## updates in Java script
+
+- updates in 2009 EC5
+- updates in 2015 EC6
+- updates in 2016 EC7
+- updates in 2017 EC8
+- updates in 2018 EC9
+- updates in 2019 EC10
