@@ -27,3 +27,15 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 - var is a variable whose value is changed during execution
 - let is also such a variable
 - but constant is such a variable that its value cannot be changed during the operation
+
+- ## OBJECTS AND PRIMITIVES
+
+- ### THE 7 primitive data types
+
+- number 
+- string 
+- boolean 
+- undefined
+- null
+- symbol
+- bight
