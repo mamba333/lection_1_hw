@@ -1,6 +1,6 @@
 # lection_1_hw 
 
-### what is java script
+## what is java script
 
 - JS one is popular language in world and we use for more application.
 And Brenden Eich created the Livescript in 1995 year.
