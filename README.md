@@ -1,4 +1,4 @@
 "# lection_1_hw" 
 
-#Hello World!
-##### salom jamshed
+#what is java script
+-JS one is popular language in world 
