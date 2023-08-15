@@ -17,3 +17,9 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 - updates in 2019 EC10
 
 - and the biggest update of java script in 2015, which has many new features.
+
+
+## - JavaScript Variables and Constants
+- var 
+- let
+- const 
