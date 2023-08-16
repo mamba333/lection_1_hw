@@ -47,3 +47,10 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 - in mobile applications
 - in desktop 
 
+## Operators IN JavaScript 
+### Arithmetic
+- +
+- -
+- *
+- /
+fwafafw
