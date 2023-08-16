@@ -49,6 +49,6 @@ The first time js came out, it was named mocha, and in 1996, it was renamed to l
 
 ## Operators IN JavaScript 
 
-![alt text](http://url/i.jpg)
+![alt text](Screenshot%202023-08-16%20153012.png)
 
 
